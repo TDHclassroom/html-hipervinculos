@@ -1,0 +1,19 @@
+{
+  "name": "html-exercises-classroom",
+  "version": "1.0.0",
+  "description": "A collection of basic HTML exercises for GitHub Classroom.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "html",
+    "exercises",
+    "github-classroom"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.0"
+  }
+}
