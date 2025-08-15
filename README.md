@@ -1,4 +1,4 @@
-# Ejercicios Básicos de HTML
+# Ejercicios Crear hipervínculos
 
 Este repositorio contiene una carpeta llamada "ejercicios" donde encotrarás un archivo por cada ejercicio a realziar. Cada ejercicio incluye pruebas automatizadas para autocorrección y calificación automática.
 
@@ -14,20 +14,8 @@ Este repositorio contiene una carpeta llamada "ejercicios" donde encotrarás un 
 
 ## Ejercicios
 
-### Ejercicio 1: Crear carpetas
-Aprende como organizar sus proyectos.
-
-### Ejercicio 2: Punto de Venta
-Aprende a crear al estructura de carpetas base para un proyecto de tienda online.
-
-### Ejercicio 3: Estructura HTML
-Aprende a crear la estructura HTML básica para un documento web.
-
-### Ejercicio 4: Estructura HTML
-Seguimos creando la estructura HTML básica para un documento web.
-
-### Ejercicio 5: Rutas e imágenes
-Aprende a crear rutas e insertar imágenes en documentos web.
+### Ejercicio 10: Tienda Online - Estructura Completa con Hipervínculos
+Crea una tienda online completa con estructura de carpetas organizada, múltiples páginas HTML interconectadas mediante hipervínculos, e integración de imágenes y recursos multimedia. Este ejercicio integra todos los conceptos aprendidos en un proyecto real.
 
 ## Ejecución de Pruebas
 
